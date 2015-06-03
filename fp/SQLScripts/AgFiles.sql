@@ -1,3 +1,4 @@
+
 USE [ALERT_F]
 GO
 
